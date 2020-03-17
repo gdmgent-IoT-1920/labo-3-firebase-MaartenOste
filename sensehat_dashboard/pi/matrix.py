@@ -5,7 +5,7 @@ import time
 
 # constants
 COLLECTION = 'raspberry_collection'
-DOCUMENT = 'maostepi_doc'
+DOCUMENT = 'maarostepi_doc'
 
 # firebase
 cred = credentials.Certificate("/home/pi/Desktop/labo-3-firebase-MaartenOste/sensehat_dashboard/config/raspberry-colors-firebase-adminsdk-nzog4-17e62a4beb.json")
